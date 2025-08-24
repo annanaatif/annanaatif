@@ -39,7 +39,6 @@ I’m passionate about building scalable backend systems, clean APIs, and reliab
 
 ## 📫 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/aatifannan1608/)  
-- ✉️ Reach me at: **your-email@example.com**  
 
 ---
 ⭐️ From [Aatif](https://github.com/aatifannan)
