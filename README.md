@@ -2,25 +2,40 @@
 
 🚀 **Software Engineer | Backend Developer | Aspiring SRE**  
 
-I’m passionate about building scalable backend systems, clean APIs, and reliable cloud-native applications. My focus is on Python-based backend development, system design, and cloud deployment. I enjoy solving challenging problems, optimizing performance, and exploring new technologies.  
+💻 Backend Developer passionate about building clean, scalable APIs and microservices with Python, Django, and FastAPI.  
+🚀 Exploring system design, cloud-native tools, and machine learning to create efficient, real-world solutions.   
 
 ---
 
 ## 🛠️ Tech Stack  
-**Languages**  
-- Python | C++ | SQL | JavaScript  
 
-**Backend & Frameworks**  
-- Django | Django REST Framework | FastAPI | Flask  
+**Programming & Backend**  
+- Python, Django, FastAPI, REST APIs, JWT Authentication, C/C++  
 
 **Databases**  
-- PostgreSQL | MySQL | MongoDB | Redis  
+- PostgreSQL, MySQL, MongoDB  
+- ORM: SQLAlchemy, Pydantic  
+- Migrations: Alembic  
 
-**Tools & DevOps**  
-- Docker | Git | Nginx | AWS | CI/CD | Apache Airflow | Celery  
+**DevOps & Cloud**  
+- Docker, Git, CI/CD  
+- AWS (EC2, Lambda)  
+- NGINX  
 
-**Other Interests**  
-- System Architecture | Data Engineering | SRE Practices | OS & Game Development  
+**Data Engineering & Scalability**  
+- Redis, Celery  
+- ETL Pipelines, Microservices  
+
+**Software Design & Testing**  
+- HLD/LLD, Agile  
+- Pytest, Selenium  
+
+**Machine Learning & Data Science**  
+- Supervised & Unsupervised Learning  
+- Model Development & Evaluation  
+- Predictive Analytics  
+- Performance Tuning  
+- Exploratory Data Analysis (EDA)
 
 ---
 
